@@ -1,3 +1,3 @@
 # practicalmachinelearning
-
-Adding csome content
+# Github repository for Practical Machine Learning
+Adding some content
